@@ -1,0 +1,154 @@
+
+------------------------------------------------------------
+Tue Aug 08 2023 18:58:58 GMT+0530 (India Standard Time)
+
+2023-08-08T13:24:44.363301911Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client guildCreate
+2023-08-08T13:24:44.364143229Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client guildDelete
+2023-08-08T13:24:44.449114602Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client interactionCreate
+2023-08-08T13:24:44.451689122Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client messageCreate
+2023-08-08T13:24:44.453250023Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client playerButton
+2023-08-08T13:24:44.453598954Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client rateLimit
+2023-08-08T13:24:44.454099792Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client ready
+2023-08-08T13:24:44.454566268Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client setupSystem
+2023-08-08T13:24:44.455030857Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client shardDisconnect
+2023-08-08T13:24:44.455514863Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client shardError
+2023-08-08T13:24:44.455924627Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client shardReady
+2023-08-08T13:24:44.456360302Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client shardReconnecting
+2023-08-08T13:24:44.456689677Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client shardResume
+2023-08-08T13:24:44.457050132Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Client voiceStateUpdate
+2023-08-08T13:24:44.457648400Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Lavalink  close
+2023-08-08T13:24:44.457942714Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Lavalink  disconnect
+2023-08-08T13:24:44.458319513Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Lavalink  error
+2023-08-08T13:24:44.459536441Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Lavalink  ready
+2023-08-08T13:24:44.460199313Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Players playerCreate
+2023-08-08T13:24:44.460675007Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Players playerDestroy
+2023-08-08T13:24:44.461101743Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Players playerEmpty
+2023-08-08T13:24:44.461554040Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Players playerEnd
+2023-08-08T13:24:44.461865815Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Players playerError
+2023-08-08T13:24:44.462235001Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Players playerException
+2023-08-08T13:24:44.462518350Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Players playerResumed
+2023-08-08T13:24:44.462962755Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Players playerStart
+2023-08-08T13:24:44.463210904Z  [08-08-2023 10:24:44]: [EVENT] Loading Events Players playerUpdate
+2023-08-08T13:24:44.463934399Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - 8d
+2023-08-08T13:24:44.464341229Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - bass
+2023-08-08T13:24:44.464746034Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - bassboost
+2023-08-08T13:24:44.465139175Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - earrape
+2023-08-08T13:24:44.465539091Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - electronic
+2023-08-08T13:24:44.542157139Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - equalizer
+2023-08-08T13:24:44.542482394Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - karaoke
+2023-08-08T13:24:44.542888526Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - nightcore
+2023-08-08T13:24:44.543187310Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - party
+2023-08-08T13:24:44.543512146Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - pop
+2023-08-08T13:24:44.543923516Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - radio
+2023-08-08T13:24:44.544245209Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - soft
+2023-08-08T13:24:44.544550628Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - speed
+2023-08-08T13:24:44.544873089Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - treblebass
+2023-08-08T13:24:44.545175436Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Filters - vaporwave
+2023-08-08T13:24:44.545543224Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Information - about
+2023-08-08T13:24:44.545965210Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Information - help
+2023-08-08T13:24:44.546208680Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Information - invite
+2023-08-08T13:24:44.546488397Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Information - node
+2023-08-08T13:24:44.546734521Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Information - ping
+2023-08-08T13:24:44.547379862Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Information - status
+2023-08-08T13:24:44.547629478Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Information - support
+2023-08-08T13:24:44.548004879Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - 247
+2023-08-08T13:24:44.548266717Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - autoplay
+2023-08-08T13:24:44.548596581Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - clear
+2023-08-08T13:24:44.548850876Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - forceskip
+2023-08-08T13:24:44.549139953Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - join
+2023-08-08T13:24:44.549383353Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - leave
+2023-08-08T13:24:44.549675921Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - loop
+2023-08-08T13:24:44.550144143Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - nowplaying
+2023-08-08T13:24:44.550436083Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - pause
+2023-08-08T13:24:44.550736264Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - play
+2023-08-08T13:24:44.565498511Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - queue
+2023-08-08T13:24:44.642567529Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - remove
+2023-08-08T13:24:44.643073256Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - resume
+2023-08-08T13:24:44.643412689Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - seek
+2023-08-08T13:24:44.643681232Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - shuffle
+2023-08-08T13:24:44.643917717Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - skip
+2023-08-08T13:24:44.644184444Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - skipto
+2023-08-08T13:24:44.644494962Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - stop
+2023-08-08T13:24:44.644780337Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Music - volume
+2023-08-08T13:24:44.646395296Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Owner - eval
+2023-08-08T13:24:44.646680810Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Owner - leave-server
+2023-08-08T13:24:44.646907937Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Owner - reload
+2023-08-08T13:24:44.647303942Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Owner - serverlist
+2023-08-08T13:24:44.648669075Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Playlist - create
+2023-08-08T13:24:44.648937898Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Playlist - delete
+2023-08-08T13:24:44.649321540Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Playlist - info
+2023-08-08T13:24:44.649691634Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Playlist - list
+2023-08-08T13:24:44.649989650Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Playlist - load
+2023-08-08T13:24:44.650272091Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Playlist - removetrack
+2023-08-08T13:24:44.650538260Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Playlist - savecurrent
+2023-08-08T13:24:44.650822657Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Playlist - savequeue
+2023-08-08T13:24:44.651182134Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Settings - adddj
+2023-08-08T13:24:44.651439293Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Settings - removedj
+2023-08-08T13:24:44.651742617Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Settings - setprefix
+2023-08-08T13:24:44.652169632Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Settings - setup
+2023-08-08T13:24:44.652383628Z  [08-08-2023 10:24:44]: [CMD] [ • ] Message Command Loaded: Settings - toggledj
+2023-08-08T13:24:44.652996981Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: 8d
+2023-08-08T13:24:44.653258400Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: bass
+2023-08-08T13:24:44.653559769Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: bassboost
+2023-08-08T13:24:44.653863303Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: earrape
+2023-08-08T13:24:44.654157827Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: electronic
+2023-08-08T13:24:44.654441246Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: equalizer
+2023-08-08T13:24:44.654707414Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: karaoke
+2023-08-08T13:24:44.654985596Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: nightcore
+2023-08-08T13:24:44.655268805Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: party
+2023-08-08T13:24:44.655533437Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: pop
+2023-08-08T13:24:44.655816437Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: radio
+2023-08-08T13:24:44.656090637Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: soft
+2023-08-08T13:24:44.656361485Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: speed
+2023-08-08T13:24:44.656658733Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: treblebass
+2023-08-08T13:24:44.656931676Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: vaporwave
+2023-08-08T13:24:44.657413726Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: help
+2023-08-08T13:24:44.657671374Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: invite
+2023-08-08T13:24:44.657945853Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: node
+2023-08-08T13:24:44.658187926Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: ping
+2023-08-08T13:24:44.658556972Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: status
+2023-08-08T13:24:44.658816086Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: support
+2023-08-08T13:24:44.659283888Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: 247
+2023-08-08T13:24:44.659536996Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: autoplay
+2023-08-08T13:24:44.659803583Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: clear
+2023-08-08T13:24:44.660056482Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: forceskip
+2023-08-08T13:24:44.660335152Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: join
+2023-08-08T13:24:44.660565840Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: leave
+2023-08-08T13:24:44.660848212Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: loop
+2023-08-08T13:24:44.661157682Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: nowplaying
+2023-08-08T13:24:44.661428320Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: pause
+2023-08-08T13:24:44.661751689Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: play
+2023-08-08T13:24:44.662246102Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: queue
+2023-08-08T13:24:44.662547261Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: remove
+2023-08-08T13:24:44.662794432Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: resume
+2023-08-08T13:24:44.663143154Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: seek
+2023-08-08T13:24:44.663387322Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: shuffle
+2023-08-08T13:24:44.663637077Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: skip
+2023-08-08T13:24:44.663902896Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: skipto
+2023-08-08T13:24:44.664169134Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: stop
+2023-08-08T13:24:44.664447734Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: volume
+2023-08-08T13:24:44.664846463Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: create
+2023-08-08T13:24:44.665126460Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: delete
+2023-08-08T13:24:44.665540065Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: info
+2023-08-08T13:24:44.742157973Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: list
+2023-08-08T13:24:44.742504041Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: load
+2023-08-08T13:24:44.742807994Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: removetrack
+2023-08-08T13:24:44.743087641Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: savecurrent
+2023-08-08T13:24:44.743370572Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: savequeue
+2023-08-08T13:24:44.743806806Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: adddj
+2023-08-08T13:24:44.744046923Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: removedj
+2023-08-08T13:24:44.744345428Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: setprefix
+2023-08-08T13:24:44.744845777Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: setupmusic
+2023-08-08T13:24:44.745219781Z  [08-08-2023 10:24:44]: [CMD] [ / ] Slash Command Loaded: toggledj
+2023-08-08T13:24:44.749884536Z  Server is ready.
+2023-08-08T13:24:45.347924265Z  [08-08-2023 10:24:45]: [READY] Shard #0 Ready
+2023-08-08T13:24:45.351894300Z  [08-08-2023 10:24:45]: [READY]  MeloSync online!
+2023-08-08T13:24:45.352019736Z  [08-08-2023 10:24:45]: [READY] Ready on 3 servers, for a total of 2 users
+2023-08-08T13:24:45.708568928Z  [08-08-2023 10:24:45]: [CMD] Successfully Loaded All Slash Commands
+2023-08-08T13:24:45.811300800Z  [08-08-2023 10:24:45]: [READY] Lavalink "LavaLink-LykHost" connected.
+2023-08-08T13:24:45.811385658Z  [08-08-2023 10:24:45]: [LOG] Auto Reconnect Collecting player 24/7 data
+2023-08-08T13:24:46.571463056Z  [08-08-2023 10:24:46]: [READY] [DB] DATABASE CONNECTED
+2023-08-08T13:24:47.286702520Z  [08-08-2023 10:24:47]: [READY] Auto Reconnect found 3 queues. Resuming all auto reconnect queue
+2023-08-08T13:24:47.594339469Z  [08-08-2023 10:24:47]: [LOG] Player Create in Rҽɯαɾԃ Bσx [ 1127238832094461952 ]
+2023-08-08T13:24:47.624746766Z  [08-08-2023 10:24:47]: [LOG] Player Create in Code [ 1112357987592450158 ]
+2023-08-08T13:24:47.657520314Z  [08-08-2023 10:24:47]: [LOG] Player Create in Maranakinnar Smp [ 1130133112920219769 ]
