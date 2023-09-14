@@ -1,0 +1,66 @@
+name: Deploy to cloudtype
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Connect deploy key
+        uses: cloudtype-github-actions/connect@v1
+        with:
+          token: ${{ secrets.CLOUDTYPE_TOKEN }}
+          ghtoken: ${{ secrets.GHP_TOKEN }}
+      - name: Deploy
+        uses: cloudtype-github-actions/deploy@v1
+        with:
+          token: ${{ secrets.CLOUDTYPE_TOKEN }}
+          project: 911t.empm.ail/host
+          stage: main
+          yaml: >
+            name: melowave
+
+            app: node@16
+
+            options:
+              env:
+                - name: NODE_ENV
+                  value: production
+                - name: COlOR
+                  value: "#D8FC00"
+                - name: LOGS
+                  value: "1111592248510009394"
+                - name: MONGO_URI
+                  value: mongodb+srv://admin:123@discord-lykhost.2utsods.mongodb.net/?retryWrites=true&w=majority
+                - name: NODE_AUTH
+                  value: "24"
+                - name: NODE_NAME
+                  value: LykHost-Private
+                - name: NODE_SECURE
+                  value: "false"
+                - name: NODE_URL
+                  value: 103.178.158.190:10247
+                - name: OWNERID
+                  value: "917069166157119509"
+                - name: PREFIX
+                  value: r!
+                - name: SPOTIFYID
+                  value: ab02faffa7794d6389b4d1b22a3d2e40
+                - name: SPOTIFYSECRET
+                  value: 2518b17c64c64617997f90127625cb28
+                - name: TOKEN
+                  value: MTE0MDY2MDc2MTE2MTY0NjE3MQ.Gd1VkR.Vx56LuXY0-utO9UBWasYmuhuAQLMfyzKVWCdSc
+                - name: PLOGS
+                  value: "1140087638464925726"
+                - name: DLOGS
+                  value: "1140091655744131072"
+              ports: "65299"
+              install: npm i
+              start: node src/index.js
+            context:
+              git:
+                url: git@github.com:${{ github.repository }}.git
+                ref: ${{ github.ref }}
